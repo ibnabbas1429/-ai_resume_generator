@@ -1,1 +1,0 @@
-# Resume & Cover Letter Generator
